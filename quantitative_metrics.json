@@ -1,0 +1,578 @@
+{
+  "layer1.2.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.26565009355545044
+  },
+  "layer1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1377084255218506
+  },
+  "layer3.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.4369133710861206
+  },
+  "layer2.0.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6300168037414551
+  },
+  "layer4.2.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.8562309741973877
+  },
+  "layer3.0.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5498363971710205
+  },
+  "layer1.0.downsample.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.814500331878662
+  },
+  "layer1.0.downsample.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.620419979095459
+  },
+  "layer2.0.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.33200302720069885
+  },
+  "layer2.2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0231869220733643
+  },
+  "layer3.0.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8264540433883667
+  },
+  "layer2.1.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0500884056091309
+  },
+  "layer3.3.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0353223085403442
+  },
+  "layer3.1.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8946478962898254
+  },
+  "layer3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7971476316452026
+  },
+  "layer2.2.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6673181056976318
+  },
+  "layer3.2.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0839663743972778
+  },
+  "layer3.4.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9549910426139832
+  },
+  "layer3.3.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.20200960338115692
+  },
+  "layer3.5.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0568678379058838
+  },
+  "layer4.2.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.1373579502105713
+  },
+  "layer3.2.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.1999131143093109
+  },
+  "layer2.1.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9066616892814636
+  },
+  "layer3.0.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6091486811637878
+  },
+  "layer3.0.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.4369133710861206
+  },
+  "layer1.0.downsample": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.814500331878662
+  },
+  "layer2.2.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.21422235667705536
+  },
+  "layer1.0.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8981391191482544
+  },
+  "layer1.2.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1377084255218506
+  },
+  "layer2.1.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.4797215461730957
+  },
+  "layer4.0.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.47998446226119995
+  },
+  "layer1.0.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7121514678001404
+  },
+  "layer2.2.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5317941308021545
+  },
+  "layer4.2.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 16.82831382751465
+  },
+  "layer3.0.downsample": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.8070642948150635
+  },
+  "layer3.0.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.44158136844635
+  },
+  "layer4.1.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0074572563171387
+  },
+  "layer2.3.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9414690136909485
+  },
+  "layer4.1.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.4997577667236328
+  },
+  "layer4.2.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 15.112762451171875
+  },
+  "layer2.2.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0231869220733643
+  },
+  "layer3.0.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8418674468994141
+  },
+  "layer3.3.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.39070671796798706
+  },
+  "layer1.2.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.2455892115831375
+  },
+  "layer2.0.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5356422066688538
+  },
+  "layer1.1.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5265622735023499
+  },
+  "layer4.0.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.439497470855713
+  },
+  "layer3.2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0839663743972778
+  },
+  "layer3.4": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9549910426139832
+  },
+  "layer2.0.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.9247443675994873
+  },
+  "layer2.2.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6286129951477051
+  },
+  "layer4.1.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 7.3312530517578125
+  },
+  "layer3.4.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7113724946975708
+  },
+  "layer2.3.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.3543476462364197
+  },
+  "layer4.0.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9285656809806824
+  },
+  "layer3.3.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7055150270462036
+  },
+  "layer3.1.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.2271673679351807
+  },
+  "layer4.0.downsample.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6450802683830261
+  },
+  "layer4.2.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.640518069267273
+  },
+  "layer2.1.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.269873857498169
+  },
+  "layer2.3.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.10066282749176025
+  },
+  "layer2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9414690136909485
+  },
+  "layer4.2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 16.82831382751465
+  },
+  "layer3.5.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6125878691673279
+  },
+  "layer3.5.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9246628880500793
+  },
+  "layer1.0.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8310378789901733
+  },
+  "layer2.2.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.635748565196991
+  },
+  "layer3.5.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1444355249404907
+  },
+  "layer3.0.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8290063738822937
+  },
+  "layer2.3.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.32835152745246887
+  },
+  "layer1.2.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.31460854411125183
+  },
+  "layer2.0.downsample.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.9791955947875977
+  },
+  "layer3.4.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6741499900817871
+  },
+  "layer2.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.9247443675994873
+  },
+  "layer2.0.downsample.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.6719956398010254
+  },
+  "layer3.2.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6178223490715027
+  },
+  "layer1.1.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.37735337018966675
+  },
+  "layer3.1.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.027160882949829
+  },
+  "layer1.0.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7056369781494141
+  },
+  "layer3.2.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6318784952163696
+  },
+  "layer4.1.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 6.6776933670043945
+  },
+  "layer2.3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9414690136909485
+  },
+  "layer3.4.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.18555369973182678
+  },
+  "layer1.0.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1442880630493164
+  },
+  "layer3.3.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6807249784469604
+  },
+  "layer4.2.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0564788579940796
+  },
+  "layer2.3.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.33184611797332764
+  },
+  "layer2.0.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6020618081092834
+  },
+  "layer2.3.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.20086774230003357
+  },
+  "layer2.1.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.44877177476882935
+  },
+  "layer4.0.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.32893180847168
+  },
+  "layer3.4.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.35500186681747437
+  },
+  "layer1.2.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.10131686925888062
+  },
+  "layer4.1.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.95200777053833
+  },
+  "layer3.1.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.9871374368667603
+  },
+  "layer3.4.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7438044548034668
+  },
+  "layer1.1.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7299076914787292
+  },
+  "layer4.0.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7665228247642517
+  },
+  "layer3.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.2010661363601685
+  },
+  "layer4.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 7.3312530517578125
+  },
+  "layer1.0.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8585436940193176
+  },
+  "layer3.3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.0353223085403442
+  },
+  "layer1.1.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.141852617263794
+  },
+  "layer4.0.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.742852210998535
+  },
+  "layer3.5.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7971476316452026
+  },
+  "layer4.1.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5155869722366333
+  },
+  "layer3.4.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5298078060150146
+  },
+  "layer3.1.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.4341394305229187
+  },
+  "layer4.2.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.442783832550049
+  },
+  "layer1.2.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.39152446389198303
+  },
+  "layer3.1.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.2010661363601685
+  },
+  "layer3.3.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5470651388168335
+  },
+  "layer2.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1996643543243408
+  },
+  "layer1.1.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.30751338601112366
+  },
+  "layer2.0.downsample": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 2.6719956398010254
+  },
+  "layer2.0.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.8198434114456177
+  },
+  "layer3.2.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.41221609711647034
+  },
+  "layer4.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.32893180847168
+  },
+  "layer3.5": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7971476316452026
+  },
+  "layer4.0.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.5523226261138916
+  },
+  "layer3.0.downsample.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.2542937994003296
+  },
+  "layer2.0.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.4385988712310791
+  },
+  "layer3.2.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6475077867507935
+  },
+  "layer4.0.downsample.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.459644317626953
+  },
+  "layer2.1.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.072800636291504
+  },
+  "layer3.2.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5489513278007507
+  },
+  "layer3.1.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.2973304986953735
+  },
+  "layer4.1.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.8762363195419312
+  },
+  "layer3.0.downsample.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.8070642948150635
+  },
+  "layer1.1.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7053486704826355
+  },
+  "layer1.1.bn2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.6621276140213013
+  },
+  "layer4.0.downsample": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 4.459644317626953
+  },
+  "layer3.5.conv3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.3836236000061035
+  },
+  "layer4": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 16.82831382751465
+  },
+  "layer2.1.relu": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1996643543243408
+  },
+  "layer1.2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1377084255218506
+  },
+  "layer3.3.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.7214280366897583
+  },
+  "layer1.2.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.14983968436717987
+  },
+  "layer1.1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.141852617263794
+  },
+  "layer1.0": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.1442880630493164
+  },
+  "layer2.3.bn1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.384936660528183
+  },
+  "layer1.0.bn3": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 1.6975529193878174
+  },
+  "layer2.2.conv2": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.4143919348716736
+  },
+  "layer3.5.conv1": {
+    "num_synsets": 5,
+    "avg_centroid_distance": 0.5806042551994324
+  }
+}
